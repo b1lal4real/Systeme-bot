@@ -16,7 +16,7 @@ A powerful and modular Discord bot built with **Discord.js**, supporting **50+ c
 - 🎉 Fun commands (meme, 8ball, joke, etc.)
 - 🎵 Optional music commands
 - 🧠 Easy to extend and customize
-- 📝 Built with Discord.js v14+
+- 📝 Built with Discord.js v13+
 
 ---
 
