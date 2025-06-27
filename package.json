@@ -1,0 +1,19 @@
+{
+  "name": "wexy-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "@discordjs/voice": "^0.17.0",
+    "discord-api-types": "^0.37.79",
+    "discord.js": "^13.17.1",
+    "mongoose": "^8.3.2"
+  }
+}
